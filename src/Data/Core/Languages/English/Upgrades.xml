@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+    <entry name="SpaceMarines/WebwayTravel" value="Webway Travel"/>
+    <entry name="SpaceMarines/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
+    <entry name="SpaceMarines/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
+</language>

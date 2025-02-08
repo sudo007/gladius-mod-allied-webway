@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<actions>
+        <webwayTravel name="Eldar/WebwayTravel"
+			requiredUpgrade="SpaceMarines/WebwayTravel">
+			<model>
+				<action sound="Actions/WebwayTravel"/>
+			</model>
+		</webwayTravel>
+	</actions>
+</unit>
