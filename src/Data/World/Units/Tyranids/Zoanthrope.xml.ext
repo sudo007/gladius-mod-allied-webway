@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<actions>
+        <webwayTravel name="Eldar/WebwayTravel"
+			requiredUpgrade="Tyranids/WebwayTravel">
+			<model>
+				<action sound="Actions/WebwayTravel"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="20"/>
+					</effects>
+				</modifier>
+			</modifiers>
+		</webwayTravel>
+	</actions>
+</unit>

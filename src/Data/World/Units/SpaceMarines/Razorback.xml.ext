@@ -6,6 +6,13 @@
 			<model>
 				<action sound="Actions/WebwayTravel"/>
 			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="20"/>
+					</effects>
+				</modifier>
+			</modifiers>
 		</webwayTravel>
 	</actions>
 </unit>

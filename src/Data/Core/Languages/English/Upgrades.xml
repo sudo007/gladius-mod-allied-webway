@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+    <entry name="AdeptusMechanicus/WebwayTravel" value="Webway Travel"/>
+    <entry name="AdeptusMechanicus/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
+    <entry name="AdeptusMechanicus/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
+    <entry name="AstraMilitarum/WebwayTravel" value="Webway Travel"/>
+    <entry name="AstraMilitarum/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
+    <entry name="AstraMilitarum/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
+    <entry name="ChaosSpaceMarines/WebwayTravel" value="Webway Travel"/>
+    <entry name="ChaosSpaceMarines/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
+    <entry name="ChaosSpaceMarines/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
+    <entry name="Necrons/WebwayTravel" value="Webway Travel"/>
+    <entry name="Necrons/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
+    <entry name="Necrons/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
+    <entry name="Orks/WebwayTravel" value="Webway Travel"/>
+    <entry name="Orks/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
+    <entry name="Orks/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
+    <entry name="SistersOfBattle/WebwayTravel" value="Webway Travel"/>
+    <entry name="SistersOfBattle/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
+    <entry name="SistersOfBattle/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
     <entry name="SpaceMarines/WebwayTravel" value="Webway Travel"/>
     <entry name="SpaceMarines/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
     <entry name="SpaceMarines/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
+    <entry name="Tau/WebwayTravel" value="Webway Travel"/>
+    <entry name="Tau/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
+    <entry name="Tau/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
+    <entry name="Tyranids/WebwayTravel" value="Webway Travel"/>
+    <entry name="Tyranids/WebwayTravelDescription" value="Allows units to travel through Webway Gates."/>
+    <entry name="Tyranids/WebwayTravelFlavor" value="No way the Aeldari would actually allow this, but welcome to the Webway!"/>
 </language>
